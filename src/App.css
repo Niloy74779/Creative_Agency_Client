@@ -1,0 +1,25 @@
+body {
+  font-family: Poppins;
+}
+
+.card-box {
+  box-shadow: 10px 10px 10px white;
+  padding: 20px;
+}
+
+@media (max-width: 768px) {
+  .responsive-dashboard {
+    margin-left: 150px !important;
+    width: 50% !important;
+    margin-right: auto !important;
+  }
+  form {
+    width: 50% !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-collapse {
+    width: 100%;
+  }
+}

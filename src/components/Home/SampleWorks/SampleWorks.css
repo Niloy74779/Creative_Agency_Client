@@ -1,0 +1,15 @@
+.sample-works {
+  background-color: #111430;
+  padding: 100px 0px;
+}
+
+.carousel-indicators li {
+  width: 15px;
+  height: 10px;
+  border-radius: 50%;
+  background: #fbd062;
+}
+
+.carousel-item img {
+  height: 500px;
+}

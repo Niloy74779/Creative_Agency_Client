@@ -1,0 +1,5 @@
+.header {
+  background: #fbd062;
+  padding: 20px 10px 140px;
+  clip-path: polygon(0 0, 1600px 0, 1400px 77%, 0 100%);
+}

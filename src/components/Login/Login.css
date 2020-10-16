@@ -1,0 +1,30 @@
+.login {
+  border: 1px solid lightgray;
+  width: 50%;
+  margin: 100px auto;
+  padding: 80px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+
+.google img {
+  height: 25px;
+  margin-right: 50px;
+}
+
+.google-border {
+  border: 1px solid gray;
+  border-radius: 20px;
+  padding: 10px 20px;
+}
+
+@media (max-width: 768px) {
+  .login {
+    width: 100%;
+  }
+  .google img {
+    margin: 0px;
+    display: block;
+    text-align: center;
+  }
+}
